@@ -32,3 +32,7 @@ communication systems.
 1. Please install necessary python packages to run this code;
 2. Please confirm that the datasets are downloaded into the *data* 
    folder;
+
+## Run 
+1. You can directly run the main file through `python main.py`, or
+2. You can run `bash run_exp.sh`
