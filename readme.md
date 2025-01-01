@@ -20,6 +20,14 @@ communication systems.
    gradient re-grouping strategy based on gradient correlation, 
    which can reflect the correlation of BS's wireless traffic.
 
+## System Model
+
+![image](png/system.png)
+
+## FedGCC Explanation
+
+![image](png/FedGCC.png)
+
 ## Prerequisites
 1. Please install necessary python packages to run this code;
 2. Please confirm that the datasets are downloaded into the *data* 
